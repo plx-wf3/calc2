@@ -66,3 +66,5 @@ ajouter a la fin de ce fichier .gitconfig le code suivant:
    chmod +x ~/.git-completion.bash
    source ~/.bash_profile
 ```
+
+
